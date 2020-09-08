@@ -1,0 +1,27 @@
+body{
+    background:#8146B3;
+}
+p.branco{
+    color:floralwhite;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    color:#D3DDD9;
+}
+p.vermelho{
+    color:#E0312A;
+    text-align: right;
+    font-family: Verdana;
+}
+p.verde{
+    color:#11b841;
+    text-align: left;
+    font-family: sans-serif;
+}
+.azul{
+    color:blue;
+}
+h1,h3,h6{
+    color:silver;
+}
